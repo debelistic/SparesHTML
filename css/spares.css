@@ -1,0 +1,89 @@
+body {
+ 	 	font: 20px/1.5, cursive, sans-serif;
+ 	 	padding: 15px;
+  		margin: 15px;
+  		background-color: #f4f4f4;
+	}
+	header{
+  		background: #35424a;
+  		color: #e8491d;
+  		padding-top: 10px;
+  		border-bottom: #e8491d 3px solid;
+  		border-radius: 5%;  		
+  		font-size: 30px;
+	}
+	h1{
+		text-align: center;
+
+	}
+	#logo{
+		position: absolute;
+		left: 10px;		
+		margin: 30px;
+		padding: 3px;		
+		height: auto;		
+		border: 3px transparent #e8491d;
+		box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+		border-radius: 10px;
+	}
+	#contact{
+		text-align: right;
+		margin-right: 10px;
+		font-size: 20px;
+	}
+
+	div{
+		overflow-x: auto;
+	}
+
+	#showcase{
+  		min-height: 300px;
+  		background: #ffffff;
+  		text-align: center;
+  		color: #e8491d;
+	}
+
+	#showcase {
+		padding: 0px;
+		margin: 0px;
+		margin-top: 0px;
+		font-size: 30px;
+		margin-bottom: 10px;
+	}
+	
+	table {
+		overflow-x: auto;		
+		border: 1px solid #CCC;		
+		background-color: #35424a;
+	} 
+	
+	th {
+		font-family: "times new roman"sans-serif;
+		font-size: 18px;
+		padding: 4px;
+		margin: 3px;
+		text-align: left;
+		vertical-align: bottom;
+		border: 1px solid #003333; 
+		color: #e8491d;
+		font-weight: bold;
+	}
+
+	td{ 
+		font-family: "times new roman", sans-serif;
+		font-size: 20px;
+		padding: 4px;
+		margin: 13px;
+		text-align: left;
+		vertical-align: bottom;		
+				
+		border: 1px solid #003333;
+	}
+	tr:hover {
+		background-color: #bbbb00;
+		text-transform: bold;
+		font-size: 22px;
+
+	}
+
+
